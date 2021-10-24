@@ -12,7 +12,7 @@ https://code.visualstudio.com/
 
 4- *Hit Left Shift + Enter to run the game and try different encryption!*
 
-![PythonEncryption DecryptionPhraseWithAKey](https://user-images.githubusercontent.com/55941045/138601976-a2b5a7ec-8bd7-4b7e-9eb6-023bef2271f8.png)
+![PythonEncryption DecryptionPhraseWithAKey](https://user-images.githubusercontent.com/55941045/138602054-2a93a1c6-7ed0-4f0d-b45a-5eaf1f0edeea.png)
 ![PythonEncryption DecryptionPhraseWithAKey1](https://user-images.githubusercontent.com/55941045/138601987-93dd8912-bdb6-4dd2-bcab-d574a2874818.png)
 ![PythonEncryption DecryptionPhraseWithAKey2](https://user-images.githubusercontent.com/55941045/138601988-36b19fc2-257c-45f8-bf97-0f2627906640.png)
 
