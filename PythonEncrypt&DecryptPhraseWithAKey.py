@@ -1,4 +1,5 @@
-# Encrypt and decrypt a message using a Caesar cipher with a key number and a message of "You Cracked The Secret Code!"
+# # Encrypt and decrypt a message using a Caesar cipher with a key number!
+
 
 
 def main():
